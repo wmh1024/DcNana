@@ -1,0 +1,39 @@
+{
+  "name": "舞小奈",
+  "short_name": "舞小奈",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#333",
+  "description": "舞立方小助手",
+  "orientation": "portrait-primary",
+  "theme_color": "#f7f8fa",
+  "icons": [{
+    "src": "https://blog-1306153177.cos.ap-beijing.myqcloud.com/202407291644997.png",
+    "sizes": "32x32",
+    "type": "image/png"
+  }, {
+    "src": "https://blog-1306153177.cos.ap-beijing.myqcloud.com/202407291645056.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blog-1306153177.cos.ap-beijing.myqcloud.com/202407291645054.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  }, {
+    "src": "https://blog-1306153177.cos.ap-beijing.myqcloud.com/202407291645476.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blog-1306153177.cos.ap-beijing.myqcloud.com/202407291645054.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blog-1306153177.cos.ap-beijing.myqcloud.com/202407291645054.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  }, {
+    "src": "https://blog-1306153177.cos.ap-beijing.myqcloud.com/202407291645278.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
