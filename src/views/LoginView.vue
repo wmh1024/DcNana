@@ -53,7 +53,7 @@ onMounted(async () => {
 
     <h1>欢迎登录舞小奈</h1>
     <div class="alert alert-success center" role="alert">
-      舞小奈仅支持白名单用户登录
+      微信扫码登录
     </div>
     <div class="row">
       <img
@@ -65,7 +65,6 @@ onMounted(async () => {
                 @click="refresh"
     >重新生成二维码
     </van-button>
-    <p>design by dbs</p>
   </div>
 </template>
 
