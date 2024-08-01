@@ -3,7 +3,7 @@
 # [舞小奈](https://github.com/wmh1024/DcNana)
 
 <a href="https://github.com/wmh1024/DcNana">
- <img src="public/icons/icon-128.png" alt="Logo" width="128" height="128">
+ <img src="public/icons/icon-512.png" alt="Logo" width="128" height="128">
 </a>
 
 
